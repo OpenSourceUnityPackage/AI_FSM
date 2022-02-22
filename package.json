@@ -1,29 +1,30 @@
 {
-    "name": "com.open-source-unity-package.matcap",
-    "displayName": "AI_FSM",
-    "description": "",
-    "version": "1.0.0",
-    "unity": "2020.3",
-    "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/OpenSourceUnityPackage/AI_FSM.git"
-    },
-    "author": {
-      "name": "Jonathan Six",
-      "email": "Six-jonathan@orange.fr",
-      "url": "https://github.com/Renardjojo"
-    },
-    "dependencies": {},
-    "keywords": [
-      "AI",
-      "FSM",
-      "State machine"
-    ],
-    "samples": [
-        {
-            "displayName": "Demo",
-            "description": "",
-            "path": "Samples~/Demo"
-        }
-  }
+  "name": "com.open-source-unity-package.ai-fsm",
+  "displayName": "AI_FSM",
+  "description": "",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenSourceUnityPackage/AI_FSM.git"
+  },
+  "author": {
+    "name": "Jonathan Six",
+    "email": "Six-jonathan@orange.fr",
+    "url": "https://github.com/Renardjojo"
+  },
+  "dependencies": {},
+  "keywords": [
+    "AI",
+    "FSM",
+    "State machine"
+  ],
+  "samples": [
+      {
+          "displayName": "Demo",
+          "description": "",
+          "path": "Samples~/Demo"
+      }
+    ]
+}
